@@ -1,0 +1,1280 @@
+[
+    {
+        "state": "AB - CANAD",
+        "city": "Calgary",
+        "port": "QC",
+        "price": "2397"
+    },
+    {
+        "state": "AB - CANAD",
+        "city": "Edmonton",
+        "port": "QC",
+        "price": "2547"
+    },
+    {
+        "state": "AK",
+        "city": "Anchorage",
+        "port": "TX",
+        "price": "4868"
+    },
+    {
+        "state": "AL",
+        "city": "Alabama Dothan",
+        "port": "GA",
+        "price": "964"
+    },
+    {
+        "state": "AL",
+        "city": "Birmingham",
+        "port": "GA",
+        "price": "1361"
+    },
+    {
+        "state": "AL",
+        "city": "Dothan",
+        "port": "GA",
+        "price": "1366"
+    },
+    {
+        "state": "AL",
+        "city": "Mobile",
+        "port": "GA",
+        "price": "1344"
+    },
+    {
+        "state": "AL",
+        "city": "Mobile South",
+        "port": "GA",
+        "price": "1358"
+    },
+    {
+        "state": "AL",
+        "city": "Montgomery",
+        "port": "GA",
+        "price": "1392"
+    },
+    {
+        "state": "AL",
+        "city": "Tanner",
+        "port": "GA",
+        "price": "1411"
+    },
+    {
+        "state": "AR",
+        "city": "Fayetteville",
+        "port": "TX",
+        "price": "1451"
+    },
+    {
+        "state": "AR",
+        "city": "Little Rock",
+        "port": "TX",
+        "price": "1389"
+    },
+    {
+        "state": "AZ",
+        "city": "Phoenix",
+        "port": "CA",
+        "price": "1830"
+    },
+    {
+        "state": "AZ",
+        "city": "Tucson",
+        "port": "CA",
+        "price": "1879"
+    },
+    {
+        "state": "CA",
+        "city": "Adelanto",
+        "port": "CA",
+        "price": "1679"
+    },
+    {
+        "state": "CA",
+        "city": "Antelope",
+        "port": "CA",
+        "price": "1875"
+    },
+    {
+        "state": "CA",
+        "city": "Bakersfield",
+        "port": "CA",
+        "price": "1714"
+    },
+    {
+        "state": "CA",
+        "city": "Fresno",
+        "port": "CA",
+        "price": "1787"
+    },
+    {
+        "state": "CA",
+        "city": "Hayward",
+        "port": "CA",
+        "price": "1916"
+    },
+    {
+        "state": "CA",
+        "city": "Long Beach",
+        "port": "CA",
+        "price": "1641"
+    },
+    {
+        "state": "CA",
+        "city": "Los Angeles",
+        "port": "CA",
+        "price": "1679"
+    },
+    {
+        "state": "CA",
+        "city": "Martinez",
+        "port": "CA",
+        "price": "1877"
+    },
+    {
+        "state": "CA",
+        "city": "Menton",
+        "port": "CA",
+        "price": "1797"
+    },
+    {
+        "state": "CA",
+        "city": "Rancho Cucamonga",
+        "port": "CA",
+        "price": "1719"
+    },
+    {
+        "state": "CA",
+        "city": "Redding",
+        "port": "CA",
+        "price": "1936"
+    },
+    {
+        "state": "CA",
+        "city": "Sacramento",
+        "port": "CA",
+        "price": "1849"
+    },
+    {
+        "state": "CA",
+        "city": "San Bernardino",
+        "port": "CA",
+        "price": "1628"
+    },
+    {
+        "state": "CA",
+        "city": "San Diego",
+        "port": "CA",
+        "price": "1748"
+    },
+    {
+        "state": "CA",
+        "city": "San Jose",
+        "port": "CA",
+        "price": "1844"
+    },
+    {
+        "state": "CA",
+        "city": "So Sacramento",
+        "port": "CA",
+        "price": "1842"
+    },
+    {
+        "state": "CA",
+        "city": "Sun Valley",
+        "port": "CA",
+        "price": "1675"
+    },
+    {
+        "state": "CA",
+        "city": "Vallejo",
+        "port": "CA",
+        "price": "1758"
+    },
+    {
+        "state": "CA",
+        "city": "Van Nuys",
+        "port": "CA",
+        "price": "1683"
+    },
+    {
+        "state": "CO",
+        "city": "Colorado Springs",
+        "port": "NJ",
+        "price": "1735"
+    },
+    {
+        "state": "CO",
+        "city": "Denver",
+        "port": "NJ",
+        "price": "1639"
+    },
+    {
+        "state": "CO",
+        "city": "Denver Central",
+        "port": "NJ",
+        "price": "1640"
+    },
+    {
+        "state": "CO",
+        "city": "Denver South",
+        "port": "NJ",
+        "price": "1846"
+    },
+    {
+        "state": "CT",
+        "city": "Hartford",
+        "port": "NJ",
+        "price": "1210"
+    },
+    {
+        "state": "CT",
+        "city": "Hartford Springfield",
+        "port": "NJ",
+        "price": "1293"
+    },
+    {
+        "state": "DC",
+        "city": "Washington DC",
+        "port": "NJ",
+        "price": "1293"
+    },
+    {
+        "state": "DE",
+        "city": "Seaford",
+        "port": "NJ",
+        "price": "1353"
+    },
+    {
+        "state": "FL",
+        "city": "Ft. Pierce",
+        "port": "FL",
+        "price": "1219"
+    },
+    {
+        "state": "FL",
+        "city": "Jacksonville East",
+        "port": "FL",
+        "price": "1077"
+    },
+    {
+        "state": "FL",
+        "city": "Jacksonville North",
+        "port": "FL",
+        "price": "1250"
+    },
+    {
+        "state": "FL",
+        "city": "Jacksonville West",
+        "port": "FL",
+        "price": "1049"
+    },
+    {
+        "state": "FL",
+        "city": "Miami Central",
+        "port": "FL",
+        "price": "1251"
+    },
+    {
+        "state": "FL",
+        "city": "Miami North",
+        "port": "FL",
+        "price": "1285"
+    },
+    {
+        "state": "FL",
+        "city": "Miami South",
+        "port": "FL",
+        "price": "1269"
+    },
+    {
+        "state": "FL",
+        "city": "Ocala",
+        "port": "FL",
+        "price": "1202"
+    },
+    {
+        "state": "FL",
+        "city": "Orlando North",
+        "port": "FL",
+        "price": "1213"
+    },
+    {
+        "state": "FL",
+        "city": "Orlando South",
+        "port": "FL",
+        "price": "1258"
+    },
+    {
+        "state": "FL",
+        "city": "Punta Gorda",
+        "port": "FL",
+        "price": "1209"
+    },
+    {
+        "state": "FL",
+        "city": "Punta Gorda South",
+        "port": "FL",
+        "price": "1409"
+    },
+    {
+        "state": "FL",
+        "city": "Tallahassee",
+        "port": "FL",
+        "price": "1248"
+    },
+    {
+        "state": "FL",
+        "city": "Tampa South",
+        "port": "FL",
+        "price": "1210"
+    },
+    {
+        "state": "FL",
+        "city": "West Palm Beach",
+        "port": "FL",
+        "price": "1296"
+    },
+    {
+        "state": "GA",
+        "city": "Atlanta East",
+        "port": "GA",
+        "price": "1194"
+    },
+    {
+        "state": "GA",
+        "city": "Atlanta North",
+        "port": "GA",
+        "price": "1214"
+    },
+    {
+        "state": "GA",
+        "city": "Atlanta South",
+        "port": "GA",
+        "price": "1354"
+    },
+    {
+        "state": "GA",
+        "city": "Atlanta West",
+        "port": "GA",
+        "price": "1390"
+    },
+    {
+        "state": "GA",
+        "city": "Augusta",
+        "port": "GA",
+        "price": "1201"
+    },
+    {
+        "state": "GA",
+        "city": "Cartersville",
+        "port": "GA",
+        "price": "1302"
+    },
+    {
+        "state": "GA",
+        "city": "FAIRBURN",
+        "port": "GA",
+        "price": "1151"
+    },
+    {
+        "state": "GA",
+        "city": "Macon",
+        "port": "GA",
+        "price": "1251"
+    },
+    {
+        "state": "GA",
+        "city": "Savannah",
+        "port": "GA",
+        "price": "1158"
+    },
+    {
+        "state": "GA",
+        "city": "Tifton",
+        "port": "GA",
+        "price": "1300"
+    },
+    {
+        "state": "HI",
+        "city": "Honolulu",
+        "port": "CA",
+        "price": "3522"
+    },
+    {
+        "state": "IA",
+        "city": "Davenport",
+        "port": "NJ",
+        "price": "1464"
+    },
+    {
+        "state": "IA",
+        "city": "Des Moines",
+        "port": "NJ",
+        "price": "1563"
+    },
+    {
+        "state": "ID",
+        "city": "Boise",
+        "port": "CA",
+        "price": "2395"
+    },
+    {
+        "state": "IL",
+        "city": "Chicago North",
+        "port": "NJ",
+        "price": "1687"
+    },
+    {
+        "state": "IL",
+        "city": "Chicago South",
+        "port": "NJ",
+        "price": "1617"
+    },
+    {
+        "state": "IL",
+        "city": "Peoria",
+        "port": "NJ",
+        "price": "1635"
+    },
+    {
+        "state": "IL",
+        "city": "Southern Illinois",
+        "port": "NJ",
+        "price": "1561"
+    },
+    {
+        "state": "IL",
+        "city": "St.Louis",
+        "port": "NJ",
+        "price": "1373"
+    },
+    {
+        "state": "IL",
+        "city": "Wheeling",
+        "port": "NJ",
+        "price": "1574"
+    },
+    {
+        "state": "IN",
+        "city": "Cicero",
+        "port": "NJ",
+        "price": "1612"
+    },
+    {
+        "state": "IN",
+        "city": "Dyer",
+        "port": "NJ",
+        "price": "1614"
+    },
+    {
+        "state": "IN",
+        "city": "Fort Wayne",
+        "port": "NJ",
+        "price": "1400"
+    },
+    {
+        "state": "IN",
+        "city": "Hammond",
+        "port": "NJ",
+        "price": "1464"
+    },
+    {
+        "state": "IN",
+        "city": "HARTFORD CITY",
+        "port": "NJ",
+        "price": "1244"
+    },
+    {
+        "state": "IN",
+        "city": "Indianapolis",
+        "port": "NJ",
+        "price": "1551"
+    },
+    {
+        "state": "KS",
+        "city": "Kansas City",
+        "port": "NJ",
+        "price": "1610"
+    },
+    {
+        "state": "KS",
+        "city": "Kansas City Eastast",
+        "port": "NJ",
+        "price": "1410"
+    },
+    {
+        "state": "KS",
+        "city": "Wichita",
+        "port": "TX",
+        "price": "1560"
+    },
+    {
+        "state": "KY",
+        "city": "Earlington",
+        "port": "GA",
+        "price": "1559"
+    },
+    {
+        "state": "KY",
+        "city": "Lexington East",
+        "port": "GA",
+        "price": "1418"
+    },
+    {
+        "state": "KY",
+        "city": "Lexington West",
+        "port": "GA",
+        "price": "1446"
+    },
+    {
+        "state": "KY",
+        "city": "Louisville",
+        "port": "GA",
+        "price": "1609"
+    },
+    {
+        "state": "KY",
+        "city": "Walton",
+        "port": "GA",
+        "price": "1547"
+    },
+    {
+        "state": "LA",
+        "city": "Baton Rouge",
+        "port": "TX",
+        "price": "1480"
+    },
+    {
+        "state": "LA",
+        "city": "New Orleans",
+        "port": "TX",
+        "price": "1442"
+    },
+    {
+        "state": "LA",
+        "city": "Shreveport",
+        "port": "TX",
+        "price": "1241"
+    },
+    {
+        "state": "MA",
+        "city": "Freetown",
+        "port": "NJ",
+        "price": "1267"
+    },
+    {
+        "state": "MA",
+        "city": "North Boston",
+        "port": "NJ",
+        "price": "1367"
+    },
+    {
+        "state": "MA",
+        "city": "South Boston",
+        "port": "NJ",
+        "price": "1396"
+    },
+    {
+        "state": "MA",
+        "city": "West Warren",
+        "port": "NJ",
+        "price": "1401"
+    },
+    {
+        "state": "MD",
+        "city": "Baltimore",
+        "port": "NJ",
+        "price": "1268"
+    },
+    {
+        "state": "MD",
+        "city": "Baltimore East",
+        "port": "NJ",
+        "price": "1313"
+    },
+    {
+        "state": "ME",
+        "city": "Lyman",
+        "port": "NJ",
+        "price": "1417"
+    },
+    {
+        "state": "ME",
+        "city": "WINDHAM",
+        "port": "NJ",
+        "price": "1517"
+    },
+    {
+        "state": "MI",
+        "city": "Detroit",
+        "port": "NJ",
+        "price": "1599"
+    },
+    {
+        "state": "MI",
+        "city": "Flint",
+        "port": "NJ",
+        "price": "1564"
+    },
+    {
+        "state": "MI",
+        "city": "Ionia",
+        "port": "NJ",
+        "price": "1653"
+    },
+    {
+        "state": "MI",
+        "city": "Kincheloe",
+        "port": "NJ",
+        "price": "1858"
+    },
+    {
+        "state": "MI",
+        "city": "Lansing",
+        "port": "NJ",
+        "price": "1602"
+    },
+    {
+        "state": "MN",
+        "city": "Crashedtoys Minneapolis",
+        "port": "NJ",
+        "price": "1457"
+    },
+    {
+        "state": "MN",
+        "city": "Minneapolis",
+        "port": "NJ",
+        "price": "1699"
+    },
+    {
+        "state": "MN",
+        "city": "Minneapolis North",
+        "port": "NJ",
+        "price": "1748"
+    },
+    {
+        "state": "MN",
+        "city": "St. Cloud",
+        "port": "NJ",
+        "price": "1474"
+    },
+    {
+        "state": "MO",
+        "city": "Columbia",
+        "port": "GA",
+        "price": "1416"
+    },
+    {
+        "state": "MO",
+        "city": "Sikeston",
+        "port": "GA",
+        "price": "1479"
+    },
+    {
+        "state": "MO",
+        "city": "Springfield",
+        "port": "GA",
+        "price": "1631"
+    },
+    {
+        "state": "MO",
+        "city": "St. Louis",
+        "port": "GA",
+        "price": "1623"
+    },
+    {
+        "state": "MS",
+        "city": "Grenada",
+        "port": "GA",
+        "price": "1970"
+    },
+    {
+        "state": "MS",
+        "city": "Jackson",
+        "port": "GA",
+        "price": "1342"
+    },
+    {
+        "state": "MT",
+        "city": "Billings",
+        "port": "NJ",
+        "price": "2299"
+    },
+    {
+        "state": "MT",
+        "city": "Helena",
+        "port": "NJ",
+        "price": "2219"
+    },
+    {
+        "state": "NB - CANAD",
+        "city": "Moncton",
+        "port": "QC",
+        "price": "1947"
+    },
+    {
+        "state": "NC",
+        "city": "China Grove",
+        "port": "GA",
+        "price": "1253"
+    },
+    {
+        "state": "NC",
+        "city": "Concord",
+        "port": "GA",
+        "price": "1199"
+    },
+    {
+        "state": "NC",
+        "city": "Gastonia",
+        "port": "GA",
+        "price": "1179"
+    },
+    {
+        "state": "NC",
+        "city": "Lumberton",
+        "port": "GA",
+        "price": "1353"
+    },
+    {
+        "state": "NC",
+        "city": "Mebane",
+        "port": "GA",
+        "price": "1318"
+    },
+    {
+        "state": "NC",
+        "city": "Mocksville",
+        "port": "GA",
+        "price": "1387"
+    },
+    {
+        "state": "NC",
+        "city": "Raleigh",
+        "port": "GA",
+        "price": "1279"
+    },
+    {
+        "state": "NC",
+        "city": "Raleigh North",
+        "port": "GA",
+        "price": "1179"
+    },
+    {
+        "state": "ND",
+        "city": "Bismarck",
+        "port": "NJ",
+        "price": "2131"
+    },
+    {
+        "state": "NE",
+        "city": "Lincoln",
+        "port": "NJ",
+        "price": "1528"
+    },
+    {
+        "state": "NH",
+        "city": "Candia",
+        "port": "NJ",
+        "price": "1333"
+    },
+    {
+        "state": "NJ",
+        "city": "Glassboro East",
+        "port": "NJ",
+        "price": "1098"
+    },
+    {
+        "state": "NJ",
+        "city": "Glassboro West",
+        "port": "NJ",
+        "price": "1093"
+    },
+    {
+        "state": "NJ",
+        "city": "Somerville",
+        "port": "NJ",
+        "price": "1230"
+    },
+    {
+        "state": "NJ",
+        "city": "Trenton",
+        "port": "NJ",
+        "price": "1301"
+    },
+    {
+        "state": "NM",
+        "city": "Albuquerque",
+        "port": "TX",
+        "price": "1618"
+    },
+    {
+        "state": "NS - CANAD",
+        "city": "Halifax",
+        "port": "QC",
+        "price": "1997"
+    },
+    {
+        "state": "NV",
+        "city": "Las Vegas",
+        "port": "CA",
+        "price": "2368"
+    },
+    {
+        "state": "NV",
+        "city": "Reno",
+        "port": "CA",
+        "price": "2165"
+    },
+    {
+        "state": "NY",
+        "city": "Albany",
+        "port": "NJ",
+        "price": "1350"
+    },
+    {
+        "state": "NY",
+        "city": "Buffalo",
+        "port": "NJ",
+        "price": "1511"
+    },
+    {
+        "state": "NY",
+        "city": "Long Island",
+        "port": "NJ",
+        "price": "1345"
+    },
+    {
+        "state": "NY",
+        "city": "Newburgh",
+        "port": "NJ",
+        "price": "1320"
+    },
+    {
+        "state": "NY",
+        "city": "Rochester",
+        "port": "NJ",
+        "price": "1410"
+    },
+    {
+        "state": "NY",
+        "city": "Syracuse",
+        "port": "NJ",
+        "price": "1342"
+    },
+    {
+        "state": "OH",
+        "city": "Cleveland East",
+        "port": "NJ",
+        "price": "1395"
+    },
+    {
+        "state": "OH",
+        "city": "Cleveland West",
+        "port": "NJ",
+        "price": "1509"
+    },
+    {
+        "state": "OH",
+        "city": "Columbus",
+        "port": "NJ",
+        "price": "1552"
+    },
+    {
+        "state": "OH",
+        "city": "Dayton",
+        "port": "NJ",
+        "price": "1443"
+    },
+    {
+        "state": "OK",
+        "city": "Oklahoma City",
+        "port": "TX",
+        "price": "1528"
+    },
+    {
+        "state": "OK",
+        "city": "Tulsa",
+        "port": "TX",
+        "price": "1486"
+    },
+    {
+        "state": "ON - CANAD",
+        "city": "London",
+        "port": "ON",
+        "price": "1672"
+    },
+    {
+        "state": "ON - CANAD",
+        "city": "Toronto",
+        "port": "ON",
+        "price": "1622"
+    },
+    {
+        "state": "OR",
+        "city": "Eugene",
+        "port": "CA",
+        "price": "2316"
+    },
+    {
+        "state": "OR",
+        "city": "Portland North",
+        "port": "CA",
+        "price": "2329"
+    },
+    {
+        "state": "OR",
+        "city": "Portland South",
+        "port": "CA",
+        "price": "2064"
+    },
+    {
+        "state": "PA",
+        "city": "Altoona",
+        "port": "NJ",
+        "price": "1339"
+    },
+    {
+        "state": "PA",
+        "city": "Chambersburg",
+        "port": "NJ",
+        "price": "1318"
+    },
+    {
+        "state": "PA",
+        "city": "Harrisburg",
+        "port": "NJ",
+        "price": "1253"
+    },
+    {
+        "state": "PA",
+        "city": "Philadelphia",
+        "port": "NJ",
+        "price": "1204"
+    },
+    {
+        "state": "PA",
+        "city": "Philadelphia East",
+        "port": "NJ",
+        "price": "1228"
+    },
+    {
+        "state": "PA",
+        "city": "Pittsburgh East",
+        "port": "NJ",
+        "price": "1195"
+    },
+    {
+        "state": "PA",
+        "city": "Pittsburgh North",
+        "port": "NJ",
+        "price": "1456"
+    },
+    {
+        "state": "PA",
+        "city": "Pittsburgh South",
+        "port": "NJ",
+        "price": "1459"
+    },
+    {
+        "state": "PA",
+        "city": "Pittsburgh West",
+        "port": "NJ",
+        "price": "1510"
+    },
+    {
+        "state": "PA",
+        "city": "Scranton",
+        "port": "NJ",
+        "price": "1309"
+    },
+    {
+        "state": "PA",
+        "city": "York Haven",
+        "port": "NJ",
+        "price": "1364"
+    },
+    {
+        "state": "QC - CANAD",
+        "city": "Montreal",
+        "port": "QC",
+        "price": "1597"
+    },
+    {
+        "state": "RI",
+        "city": "Exeter",
+        "port": "NJ",
+        "price": "1324"
+    },
+    {
+        "state": "SC",
+        "city": "Columbia",
+        "port": "GA",
+        "price": "1274"
+    },
+    {
+        "state": "SC",
+        "city": "Greer",
+        "port": "GA",
+        "price": "1168"
+    },
+    {
+        "state": "SC",
+        "city": "North Charleston",
+        "port": "GA",
+        "price": "1004"
+    },
+    {
+        "state": "SC",
+        "city": "Spartanburg",
+        "port": "GA",
+        "price": "1376"
+    },
+    {
+        "state": "SD",
+        "city": "Rapid City",
+        "port": "NJ",
+        "price": "2366"
+    },
+    {
+        "state": "TN",
+        "city": "Knoxville",
+        "port": "GA",
+        "price": "1391"
+    },
+    {
+        "state": "TN",
+        "city": "Memphis",
+        "port": "GA",
+        "price": "1505"
+    },
+    {
+        "state": "TN",
+        "city": "Nashville",
+        "port": "GA",
+        "price": "1416"
+    },
+    {
+        "state": "TX",
+        "city": "Abilene",
+        "port": "TX",
+        "price": "1383"
+    },
+    {
+        "state": "TX",
+        "city": "Amarillo",
+        "port": "TX",
+        "price": "1453"
+    },
+    {
+        "state": "TX",
+        "city": "Andrews",
+        "port": "TX",
+        "price": "1304"
+    },
+    {
+        "state": "TX",
+        "city": "Austin",
+        "port": "TX",
+        "price": "1204"
+    },
+    {
+        "state": "TX",
+        "city": "Corpus Christi",
+        "port": "TX",
+        "price": "1156"
+    },
+    {
+        "state": "TX",
+        "city": "CrashedToys Dallas",
+        "port": "TX",
+        "price": "1157"
+    },
+    {
+        "state": "TX",
+        "city": "Dallas",
+        "port": "TX",
+        "price": "1330"
+    },
+    {
+        "state": "TX",
+        "city": "Dallas South",
+        "port": "TX",
+        "price": "1367"
+    },
+    {
+        "state": "TX",
+        "city": "DRIVE Dallas",
+        "port": "TX",
+        "price": "1366"
+    },
+    {
+        "state": "TX",
+        "city": "El Paso",
+        "port": "TX",
+        "price": "1413"
+    },
+    {
+        "state": "TX",
+        "city": "Ft. Worth",
+        "port": "TX",
+        "price": "1304"
+    },
+    {
+        "state": "TX",
+        "city": "Houston",
+        "port": "TX",
+        "price": "1248"
+    },
+    {
+        "state": "TX",
+        "city": "Houston East",
+        "port": "TX",
+        "price": "1308"
+    },
+    {
+        "state": "TX",
+        "city": "Longview",
+        "port": "TX",
+        "price": "1187"
+    },
+    {
+        "state": "TX",
+        "city": "Lufkin",
+        "port": "TX",
+        "price": "1090"
+    },
+    {
+        "state": "TX",
+        "city": "McAllen",
+        "port": "TX",
+        "price": "1288"
+    },
+    {
+        "state": "TX",
+        "city": "San Antonio",
+        "port": "TX",
+        "price": "1309"
+    },
+    {
+        "state": "TX",
+        "city": "Waco",
+        "port": "TX",
+        "price": "1331"
+    },
+    {
+        "state": "UT",
+        "city": "Ogden",
+        "port": "CA",
+        "price": "1958"
+    },
+    {
+        "state": "UT",
+        "city": "Salt Lake City",
+        "port": "CA",
+        "price": "2006"
+    },
+    {
+        "state": "VA",
+        "city": "Danville",
+        "port": "NJ",
+        "price": "1366"
+    },
+    {
+        "state": "VA",
+        "city": "Fredericksburg",
+        "port": "NJ",
+        "price": "1415"
+    },
+    {
+        "state": "VA",
+        "city": "Hampton",
+        "port": "NJ",
+        "price": "1334"
+    },
+    {
+        "state": "VA",
+        "city": "Richmond",
+        "port": "NJ",
+        "price": "1428"
+    },
+    {
+        "state": "VA",
+        "city": "Richmond East",
+        "port": "NJ",
+        "price": "1275"
+    },
+    {
+        "state": "WA",
+        "city": "Graham",
+        "port": "TX",
+        "price": "2230"
+    },
+    {
+        "state": "WA",
+        "city": "North Seattle",
+        "port": "TX",
+        "price": "2250"
+    },
+    {
+        "state": "WA",
+        "city": "Pasco",
+        "port": "TX",
+        "price": "2250"
+    },
+    {
+        "state": "WA",
+        "city": "Spokane",
+        "port": "TX",
+        "price": "2285"
+    },
+    {
+        "state": "WI",
+        "city": "Appleton",
+        "port": "NJ",
+        "price": "1699"
+    },
+    {
+        "state": "WI",
+        "city": "Madison",
+        "port": "NJ",
+        "price": "1504"
+    },
+    {
+        "state": "WI",
+        "city": "Madison South",
+        "port": "NJ",
+        "price": "1654"
+    },
+    {
+        "state": "WI",
+        "city": "Milwauke South",
+        "port": "NJ",
+        "price": "1664"
+    },
+    {
+        "state": "WI",
+        "city": "Milwaukee",
+        "port": "NJ",
+        "price": "1664"
+    },
+    {
+        "state": "WI",
+        "city": "Milwaukee North",
+        "port": "NJ",
+        "price": "1664"
+    },
+    {
+        "state": "WV",
+        "city": "Charleston",
+        "port": "NJ",
+        "price": "1397"
+    },
+    {
+        "state": "WY",
+        "city": "Casper",
+        "port": "NJ",
+        "price": "2024"
+    }
+]
