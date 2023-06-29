@@ -12,6 +12,8 @@ url = os.getenv('url')
 password = os.getenv('pass')
 work_url = os.getenv('work_url') 
 
+auction = ('COPART', 'IAAI')
+
 
 logger.add(f'{path}/log/log.log', 
            format= '{time} {level} {message}', 
