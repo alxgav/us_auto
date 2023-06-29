@@ -1,0 +1,17 @@
+version: '3.3'
+
+services:
+  web:
+    build: ./app
+    command: uvicorn main:app --host 0.0.0.0 --port 80 --reload
+    volumes:
+      - ./app/:/app/
+    ports:
+      - "80:80"
+  #   depends_on:
+  #     - chrome
+  #   restart: on-failure
+  # chrome:
+  #   image: playwright/chromium:latest
+  #   volumes:
+  #     - /dev/shm:/dev/shm
