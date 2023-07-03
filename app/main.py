@@ -37,8 +37,8 @@ async def read_item(auction: AuctionName, port:PortName):
     data = await parse_page(auction, port)
     return {f'data': data}
 
-if __name__ == '__main__':
-    uvicorn.run('main:app',
-                reload=True,
-                host='0.0.0.0', 
-                port=8001)
+# if __name__ == '__main__':
+#     uvicorn.run('main:app',
+#                 reload=True,
+#                 host='0.0.0.0', 
+#                 port=8001)
