@@ -161,3 +161,4 @@ cython_debug/
 info.md
 del_folder/
 log/
+.flake8
