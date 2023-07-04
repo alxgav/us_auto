@@ -6,10 +6,6 @@ path = os.path.dirname(os.path.realpath(__file__))
 
 load_dotenv(find_dotenv())
 
-# user = os.getenv("user")
-# url = os.getenv("url")
-# password = os.getenv("pass")
-# work_url = os.getenv("work_url")
 
 try:
     user = os.environ["user"]
